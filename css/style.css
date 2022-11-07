@@ -1,9 +1,4 @@
-body {
-  padding: 0;
-  margin: 0;
-  background-color: blueviolet;
-}
-
-div {
-  color: black;
+.header {
+  background-color: #832727;
+  font-size: 15px;
 }
